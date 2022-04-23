@@ -1,2 +1,2 @@
-# sweft-bspline-surface
-Sweft B-Spline surface
+# swept-bspline-surface
+Swept B-Spline surface
