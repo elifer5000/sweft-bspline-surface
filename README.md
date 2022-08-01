@@ -1,4 +1,4 @@
-# Swept B-Spline surface
+# Swept B-Spline surface (2007)
 
 The program reads and displays swept surfaces (reading a 2D profile and a 3D sweeping b-spline curve; uniform and non-uniform b-splines are supported) from the following file format:
 
